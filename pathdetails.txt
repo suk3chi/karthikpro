@@ -1,0 +1,10 @@
+cd D:\rad>set path="C:\Program Files\Java\jdk-16.0.2\bin
+javac Hello.java
+java Hello
+
+D:\rad\Hello.java
+
+
+cd \users\karthi\onedrive\desktop\javaproject
+javac Hello.java
+java Hello
